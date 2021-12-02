@@ -1,5 +1,7 @@
 # fMRI_dimensionality
 
+[![DOI](https://zenodo.org/badge/433736412.svg)](https://zenodo.org/badge/latestdoi/433736412)
+
 SfN Neuroscience 2021 poster session (November 9, 2021):
 "Goal and context embeddings of the lateral prefrontal cortex during reinforcement learning"
 
